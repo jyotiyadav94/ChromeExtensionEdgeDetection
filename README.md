@@ -10,6 +10,11 @@ The "Webcam and Microphone Access" Chrome extension allows users to access their
 - Toggle between normal video feed and edge-detected view.
 - Display edge detection results directly on top of the live video feed.
 
+<img width="1357" alt="Screenshot 2024-09-10 at 13 48 49" src="https://github.com/user-attachments/assets/83a352f2-3260-44e9-82bc-ee513602c407">
+<img width="1357" alt="Screenshot 2024-09-10 at 13 47 48" src="https://github.com/user-attachments/assets/3a1ace38-2f10-4837-a734-d1282398c48e">
+
+
+
 ## Installation
 
 1. **Clone or Download the Repository:**
